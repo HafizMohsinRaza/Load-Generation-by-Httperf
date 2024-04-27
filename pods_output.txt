@@ -1,0 +1,15 @@
+adservice-587cf5987f-m76xd              
+cartservice-7958c76db4-prcgb            
+checkoutservice-5c5df86f8f-b2m4f        
+checkoutservice-5c5df86f8f-vcg78        
+currencyservice-66dc4ff95c-skdsb        
+emailservice-5847c9979-n8n68            
+frontend-7cc7599865-tmmfx               
+grafana-5796c6f774-4gpfq                
+loadgenerator-84cc74dcd-vpqfv           
+paymentservice-75c5d46bc5-6qn62         
+productcatalogservice-65dffbf4bf-2fmp4  
+prometheus-operator-84db9dc49f-8ppcr    
+recommendationservice-7f58c78487-vzsx4  
+redis-cart-76b9545755-b5c44             
+shippingservice-6bd977bbdc-h4sc9        

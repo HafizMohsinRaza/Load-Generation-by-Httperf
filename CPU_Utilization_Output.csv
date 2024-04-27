@@ -1,0 +1,4 @@
+Pod,CPU Limit(m),CPU_Cores(m),Cpu Utilization(%),connections,connection_rate,request_rate,request_size,reply_time,cpu_time,net_io
+1,200,7.0,3.5,25,0.2,0.0,0.0,0.0,19.8,0.0
+1,200,9.0,4.5,10,0.1,0.0,0.0,0.0,31.3,0.0
+1,200,8.0,4.0,7,0.1,0.0,0.0,0.0,35.3,0.0
